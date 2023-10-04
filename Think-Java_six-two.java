@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//square root calculator
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+/* write a method to determines if a word is an abecedarian...this means that the letters
+used to spell the word are in alphabetical order*/
 public class Main {
 
     public static void main(String[] args) {
@@ -10,12 +11,7 @@ public class Main {
         input = in.nextLine();
 
         System.out.print(isAbecedarian(input));
-
-
-
-
-
-
+        
     }
     public static boolean isAbecedarian (String word){
         int wordLength = word.length();
