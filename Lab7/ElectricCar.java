@@ -12,10 +12,10 @@ public class ElectricCar extends Car{
     public int getBatterySize(){return batterySize;}
 
     public void describe(){
-        System.out.println("Make: "+this.getMake()+
-                "\nModel: "+this.getModel()+
-                "\nYear: "+this.getYear()+
-                "\nBattery Size: "+this.batterySize);
+        System.out.println("Make: "+getMake()+
+                "\nModel: "+getModel()+
+                "\nYear: "+getYear()+
+                "\nBattery Size: "+ getBatterySize());
     }
 
 }
