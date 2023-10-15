@@ -19,11 +19,11 @@ public class GasolineCar extends Car {
     public void  setTankCapacity(){this.tankCapacity = tankCapacity;}
 
     public void describe(){
-        System.out.println("Make: "+getMake()+
-                "\nModel: "+getModel()+
-                "\nYear: "+getYear()+
-                "\nCylinders: "+getCylinders()+
-                "\nTank Capacity: "+getTankCapacity());
+        System.out.println("Make: "+this.getMake()+
+                "\nModel: "+this.getModel()+
+                "\nYear: "+this.getYear()+
+                "\nCylinders: "+this.cylinders+
+                "\nTank Capacity: "+this.tankCapacity);
 
     }
 
