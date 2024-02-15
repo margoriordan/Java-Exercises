@@ -1,0 +1,7 @@
+Name,County,Park,Geocoordinate
+The Keyhole,Highland,Fort Hill,39d 6' 34.80" N 83d 24' 49.56" W
+Rockbridge,Hocking,Rockbridge Preserve,39d 34' 35.88" N 82d 30' 6.84" W
+Rockhouse,Hocking,Hocking Hills State Park,39d 29' 51.90" N 82d 36' 50.52" W
+Trimmer Arch,Ross,Paint Creek Wildlife Area,39d 17' 40.74" N 83d 22' 22.26" W
+Arch Rock,Vinton,Vinton Furnace State Forest,39d 11' 26.22" N 82d 22' 17.82" W
+Greenville Falls Arch,Miami,Greenville Falls Scenic River Area,40d 6' 34.12" N 84d 22' 33.46" W
