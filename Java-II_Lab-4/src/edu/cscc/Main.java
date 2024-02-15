@@ -13,9 +13,9 @@ public class Main {
 	//Database credentials
 	// TODO - replace with actual connection information
 	static final String USER = "rdonly";
-	static final String PASS = "purpleAvocado218";
-	static final String PORT = "1433";
-	static final String HOST = "csci2469-01.czlyasswa9el.us-east-2.rds.amazonaws.com";
+	static final String PASS = "password";
+	static final String PORT = "0000";
+	static final String HOST = "hostURL";
 	static final String DATABASE = "Northwind";
 
 	// Build connection URL
